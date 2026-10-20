@@ -18,6 +18,17 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.2 — 2026-10-20
+- **New app icon**: all four 2s fanned out in your hand, ♠ ♣ ♦ ♥, so every suit shows. On PC (exe, window, browser tab)
+  the background is invisible, just the cards; on iPhone they sit on the studio dark (iOS doesn't allow see-through icons).
+- First release to carry the 0.6.1 changes below (0.6.1 itself never went out).
+
+### 0.6.1 — 2026-10-19
+- **No more Godot logo anywhere**: the iPhone launch screen, the browser loading page and the PC boot all open on the
+  studio dark, straight into our splash.
+- The **PC exe carries the Killer 2s icon** and "Killer 2s · Devious Developments" in its file details.
+- The title screen shows the new tagline: *Shed your hand. Save your 2s. Take the pile.*
+
 ### 0.6.0 — 2026-10-19 · "Killer 2s"
 - **New name: Killer 2s** (was "Kill: TCG"). Tagline: *Shed your hand. Save your 2s. Take the pile.*
 - **Studio splash**: the Devious Developments logo, then the title written on notebook paper. No more Godot stand-ins on boot.
