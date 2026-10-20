@@ -18,6 +18,14 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.3 — 2026-10-20
+- **FULL SET, a new kind of kill**: when all four of a card end up on the stack, whoever lays the last of them wins it
+  on the spot, whatever the suits. Got the other two 3s when someone plays a pair of 3s? Drop them: the stack clears,
+  the pile is yours and you lead. A pair onto a single works too. In a run it scores like a KILL.
+- **Faces at the table**: every opponent (and every boss) has a hand-drawn polaroid of their own, taped to their seat,
+  in place of the numbered circle.
+- **Shop info icons**: tap the little ⓘ on any card in the Locker to read what it does, with no more buying by accident.
+
 ### 0.6.2 — 2026-10-20
 - **New app icon**: all four 2s fanned out in your hand, ♠ ♣ ♦ ♥, so every suit shows. On PC (exe, window, browser tab)
   the background is invisible, just the cards; on iPhone they sit on the studio dark (iOS doesn't allow see-through icons).
