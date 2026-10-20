@@ -18,6 +18,10 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.4 — 2026-10-20
+- **Full Set, tightened**: the four have to be played together, one straight after another. If any other play lands in
+  between (say a 5, then a 7, then a pair of 5s), the last 5 is just a 5.
+
 ### 0.6.3 — 2026-10-20
 - **FULL SET, a new kind of kill**: when all four of a card end up on the stack, whoever lays the last of them wins it
   on the spot, whatever the suits. Got the other two 3s when someone plays a pair of 3s? Drop them: the stack clears,
