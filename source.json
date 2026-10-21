@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.6.9",
+          "buildVersion": "0.6.9",
+          "date": "2026-10-21T03:14:12+00:00",
+          "localizedDescription": "- See every bonus on a card: each enhanced card wears a small chip per bonus down its left edge (gold coin, stone, chrome, holo rainbow, foil swirl, red X for Marked), always visible, even in a fanned hand.\n- Hold a card for the details: press and hold a card still (or hover it on PC) and a note above your hand lists each of its bonuses and exactly what it does.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.9.ipa",
+          "size": 22176309,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.6.8",
           "buildVersion": "0.6.8",
-          "date": "2026-10-21T02:56:26+00:00",
+          "date": "2026-10-20",
           "localizedDescription": "- The iPhone app now says plainly that it never uses the camera, microphone or photos.\n- The pause menu re-centres itself if the phone rotates while it's open.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.8.ipa",
-          "size": 22173255,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -194,10 +203,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.6.8",
-      "identifier": "killer2s-0.6.8",
-      "caption": "The iPhone app now says plainly that it never uses the camera, microphone or photos.",
-      "date": "2026-10-21T02:56:26+00:00",
+      "title": "Killer 2s 0.6.9",
+      "identifier": "killer2s-0.6.9",
+      "caption": "See every bonus on a card: each enhanced card wears a small chip per bonus down its left edge (gold coin, stone, chrome, holo rainbow, foil ",
+      "date": "2026-10-21T03:14:12+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"

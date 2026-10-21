@@ -29,6 +29,12 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.9 — 2026-10-20
+- **See every bonus on a card**: each enhanced card wears a small chip per bonus down its left edge (gold coin, stone, chrome,
+  holo rainbow, foil swirl, red X for Marked), always visible, even in a fanned hand.
+- **Hold a card for the details**: press and hold a card still (or hover it on PC) and a note above your hand lists each of
+  its bonuses and exactly what it does.
+
 ### 0.6.8 — 2026-10-20
 - The iPhone app now says plainly that it never uses the camera, microphone or photos.
 - The pause menu re-centres itself if the phone rotates while it's open.
