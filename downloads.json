@@ -1,10 +1,15 @@
 {
- "retired": 4,
+ "retired": 6,
  "history": [
   {
    "asset": "Killer2s-0.6.8.ipa",
    "downloads": 4,
    "retired": "2026-10-20 23:14:12"
+  },
+  {
+   "asset": "Killer2s-0.6.9.ipa",
+   "downloads": 2,
+   "retired": "2026-10-21 00:10:44"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct); counting starts at 0.6.8"

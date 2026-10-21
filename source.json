@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.6.10",
+          "buildVersion": "0.6.10",
+          "date": "2026-10-21T04:10:44+00:00",
+          "localizedDescription": "- Decks unlock now: the unlock checks never actually ran. Now they're checked after every table, so a deck unlocks the moment you earn it (\"New deck unlocked!\" on the table report). Crew and money count at their peak in the run, so holding $50 and then spending it still counts. Your saved progress gets credit where it can prove it: a past win unlocks Pixel, and having cleared circuit 2 unlocks Chalkboard.\n- 30 achievements, in a new Achievements tab in the Collection, across plays, runs, money, enhancements, and decks and stakes.\n- iPhone: the title screen no longer shows a Quit button. iOS never lets an app close itself; swipe home to leave.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.10.ipa",
+          "size": 22192358,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.6.9",
           "buildVersion": "0.6.9",
-          "date": "2026-10-21T03:14:12+00:00",
+          "date": "2026-10-20",
           "localizedDescription": "- See every bonus on a card: each enhanced card wears a small chip per bonus down its left edge (gold coin, stone, chrome, holo rainbow, foil swirl, red X for Marked), always visible, even in a fanned hand.\n- Hold a card for the details: press and hold a card still (or hover it on PC) and a note above your hand lists each of its bonuses and exactly what it does.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.9.ipa",
-          "size": 22176309,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -203,10 +212,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.6.9",
-      "identifier": "killer2s-0.6.9",
-      "caption": "See every bonus on a card: each enhanced card wears a small chip per bonus down its left edge (gold coin, stone, chrome, holo rainbow, foil ",
-      "date": "2026-10-21T03:14:12+00:00",
+      "title": "Killer 2s 0.6.10",
+      "identifier": "killer2s-0.6.10",
+      "caption": "Decks unlock now: the unlock checks never actually ran. Now they're checked after every table, so a deck unlocks the moment you earn it (\"Ne",
+      "date": "2026-10-21T04:10:44+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"

@@ -29,6 +29,14 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.10 — 2026-10-21
+- **Decks unlock now**: the unlock checks never actually ran. Now they're checked after every table, so a deck unlocks the
+  moment you earn it ("New deck unlocked!" on the table report). Crew and money count at their peak in the run, so holding
+  $50 and then spending it still counts. Your saved progress gets credit where it can prove it: a past win unlocks Pixel,
+  and having cleared circuit 2 unlocks Chalkboard.
+- **30 achievements**, in a new Achievements tab in the Collection, across plays, runs, money, enhancements, and decks and stakes.
+- iPhone: the title screen no longer shows a Quit button. iOS never lets an app close itself; swipe home to leave.
+
 ### 0.6.9 — 2026-10-20
 - **See every bonus on a card**: each enhanced card wears a small chip per bonus down its left edge (gold coin, stone, chrome,
   holo rainbow, foil swirl, red X for Marked), always visible, even in a fanned hand.
