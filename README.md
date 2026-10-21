@@ -18,6 +18,13 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.6 — 2026-10-20
+- **Clear stacking rules**: every enhancement trick now says what it is and what it stacks with: a MATERIAL (Gold,
+  Stone), a FINISH (Holo, Chrome, Foil) or a MARK. A card holds one of each.
+- **Replace warning**: using a bonus that would push one off (Holo on a Chrome card) asks first, "Replace with Holo" or
+  "Keep it". The same bonus twice is refused, so you don't waste the trick.
+- After a bonus stacks, the table tells you what the card is now ("now Stone + Holo + Marked").
+
 ### 0.6.5 — 2026-10-20
 - **Enhanced cards shine**: every enhancement now has a live, moving finish, with the rank and pips inked on top.
   **Holo** is a rainbow film that shifts as you move (Balatro-style), **Chrome** has mirror bands that sweep across,
