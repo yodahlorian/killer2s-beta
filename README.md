@@ -25,8 +25,6 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 Newest first. 
 
 ### 0.6.8 — 2026-10-20
-- **Killer 2s is an AltStore source**: add `https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/source.json`
-  in AltStore → Sources and every new beta arrives as an update.
 - The iPhone app now says plainly that it never uses the camera, microphone or photos.
 - The pause menu re-centres itself if the phone rotates while it's open.
 
