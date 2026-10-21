@@ -2,6 +2,11 @@
 
 **Shed your hand. Save your 2s. Take the pile.**
 
+[![This beta](https://img.shields.io/github/downloads/yodahlorian/killer2s-beta/latest/total?label=this%20beta&color=c9a44c)](../../releases/latest)
+[![Earlier betas](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyodahlorian%2Fkiller2s-beta%2Fmain%2Fdownloads.json&query=%24.retired&label=earlier%20betas&color=6a7f99)](downloads.json)
+
+Downloads count AltStore installs and direct downloads together.
+
 A shedding card game (Tiến Lên / "Thirteen" / "Killer" — with our own ladder, kills and bombs) and a roguelike run
 on top. Beta by **Devious Developments**.
 
