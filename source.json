@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.6.12",
+          "buildVersion": "0.6.12",
+          "date": "2026-10-21T19:32:34+00:00",
+          "localizedDescription": "- Winning the run is celebrated on the table you win it: beat the final boss and the report says \"YOU WON THE RUN! Endless continues…\". It used to stay quiet, then say \"you won the run\" on the table you later LOST in Endless.\n- Losing in Endless now says how far past the win you got (\"you won, then cleared 7 Endless tables\").\n- Fixed: \"New deck unlocked!\" never actually appeared on the table report. It shows now.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.12.ipa",
+          "size": 22197121,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.6.11",
           "buildVersion": "0.6.11",
-          "date": "2026-10-21T04:39:29+00:00",
+          "date": "2026-10-21",
           "localizedDescription": "- Pick your difficulty: choose how long a run is on the deck screen. Easy is 3 circuits of 2 tables + boss (9 tables), Normal 5 × (3 + boss) = 20, Hard 8 × (4 + boss) = 40, Extreme 12 × (6 + boss) = 84. Every run starts in the Cafeteria and ends at The Table of Death, then carries on into Endless.\n- The circuit map draws every circuit of your run (Extreme snakes over two columns), with one circle per table and the boss in red.\n- Achievements reworded to fit any length: Halfway There = half a run; No End in Sight = 10 tables of Endless.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.11.ipa",
-          "size": 22197185,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -221,10 +230,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.6.11",
-      "identifier": "killer2s-0.6.11",
-      "caption": "Pick your difficulty: choose how long a run is on the deck screen. Easy is 3 circuits of 2 tables + boss (9 tables), Normal 5 × (3 + boss) =",
-      "date": "2026-10-21T04:39:29+00:00",
+      "title": "Killer 2s 0.6.12",
+      "identifier": "killer2s-0.6.12",
+      "caption": "Winning the run is celebrated on the table you win it: beat the final boss and the report says \"YOU WON THE RUN! Endless continues…\". It use",
+      "date": "2026-10-21T19:32:34+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"

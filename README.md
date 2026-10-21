@@ -38,6 +38,12 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.12 — 2026-10-21
+- **Winning the run is celebrated on the table you win it**: beat the final boss and the report says "YOU WON THE RUN!
+  Endless continues…". It used to stay quiet, then say "you won the run" on the table you later LOST in Endless.
+- Losing in Endless now says how far past the win you got ("you won, then cleared 7 Endless tables").
+- Fixed: "New deck unlocked!" never actually appeared on the table report. It shows now.
+
 ### 0.6.11 — 2026-10-21
 - **Pick your difficulty**: choose how long a run is on the deck screen. Easy is 3 circuits of 2 tables + boss (9 tables),
   Normal 5 × (3 + boss) = 20, Hard 8 × (4 + boss) = 40, Extreme 12 × (6 + boss) = 84. Every run starts in the Cafeteria and
