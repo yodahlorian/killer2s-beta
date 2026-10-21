@@ -18,6 +18,24 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.5 — 2026-10-20
+- **Enhanced cards shine**: every enhancement now has a live, moving finish, with the rank and pips inked on top.
+  **Holo** is a rainbow film that shifts as you move (Balatro-style), **Chrome** has mirror bands that sweep across,
+  **Foil** ripples blue-silver, **Gold** has a rolling sheen and twinkling glints, and **Stone** catches the light.
+  On iPhone, tilt the phone and the light moves; on PC, it follows the mouse. Works on every deck.
+- **Your own sort**: Sort now cycles by rank, by suit, and **by plays**: your hand chained into the fewest plays with the
+  fewest cards left over, laid out singles, pairs, trips, runs, then your 2s.
+- **Bonuses stack, one of each kind**: a card can have a material (Gold or Stone), a finish (Holo, Chrome or Foil) and a
+  Mark, all at once, and each one pays. A new bonus of a kind the card already has replaces the old one.
+- **Purchase confirmation in the Locker**: the first tap on a card for sale selects it and shows what it does; tap it
+  again to buy. Tapping anywhere else cancels.
+- **The Snitch works**: each opponent's highest card shows face-up on their seat, and updates as they play.
+- **Pause menu**: the pause button in the table's top-left corner (or Esc / Start on a controller) stops the table:
+  the CPUs wait, nothing moves. From it: Resume, **Sound** (volume and mute, remembered), How to play, and
+  **Quit run** (it asks first) or Main menu at a quick table. On iPhone, leaving the app pauses the table too.
+- **Peek works**: the next opponent's whole hand shows face-up for that table.
+- Fixed: after a run, the main menu's deck cards kept that run's enhancements (stone Aces on the deck picker).
+
 ### 0.6.4 — 2026-10-20
 - **Full Set, tightened**: the four have to be played together, one straight after another. If any other play lands in
   between (say a 5, then a 7, then a pair of 5s), the last 5 is just a 5.
