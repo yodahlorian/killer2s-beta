@@ -10,16 +10,22 @@ Downloads count AltStore installs and direct downloads together.
 A shedding card game (Tiến Lên / "Thirteen" / "Killer" — with our own ladder, kills and bombs) and a roguelike run
 on top. Beta by **Devious Developments**.
 
+**Play on PC or in your browser:** [deviousdevelopments.itch.io/killer-2s](https://deviousdevelopments.itch.io/killer-2s)
+
 ## Install with AltStore (updates itself)
 
 1. In **AltStore** → **Sources** → **+**, add this source:
    `https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/source.json`
 2. Open **Devious Developments** → **Killer 2s** → **Free / Get**. New betas show up as updates in AltStore.
 
-## Install by hand (Sideloadly)
+## Or SideStore (refreshes anywhere, no computer after setup)
+
+Add the same source in **[SideStore](https://sidestore.io)** → Sources → +. It works exactly like AltStore.
+
+## Or install the file yourself
 
 1. Download the newest `Killer2s-<version>.ipa` from **[Releases → Latest](../../releases/latest)**.
-2. Install it with **[Sideloadly](https://sideloadly.io)** (Windows / macOS) or **AltStore**, signing with your own Apple ID.
+2. Install it with any sideloading tool, signing with your own Apple ID.
 3. On the phone: **Settings → General → VPN & Device Management** → trust your Apple ID's developer profile.
 4. Play in landscape.
 
