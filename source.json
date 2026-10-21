@@ -1,0 +1,71 @@
+{
+  "name": "Devious Developments",
+  "identifier": "com.deviousdevelopments.source",
+  "subtitle": "Betas from Devious Developments",
+  "description": "Public iPhone betas from Devious Developments. Killer 2s first.",
+  "iconURL": "https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/altstore/icon.png",
+  "website": "https://github.com/yodahlorian/killer2s-beta",
+  "tintColor": "#C9A44C",
+  "featuredApps": [
+    "com.deviousdevelopments.killer2s"
+  ],
+  "apps": [
+    {
+      "name": "Killer 2s",
+      "bundleIdentifier": "com.deviousdevelopments.killer2s",
+      "developerName": "Devious Developments",
+      "subtitle": "Shed your hand. Save your 2s. Take the pile.",
+      "localizedDescription": "A shedding card game (Tiến Lên / \"Thirteen\" / \"Killer\", with our own ladder, kills and bombs) and a roguelike run on top: crews, tricks, bosses, enhanced cards. Public beta by Devious Developments. Play in landscape.",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/altstore/icon.png",
+      "tintColor": "#C9A44C",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/altstore/screens/menu.png",
+          "width": 1920,
+          "height": 886
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/altstore/screens/shop.png",
+          "width": 1920,
+          "height": 886
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/altstore/screens/bomb.png",
+          "width": 1920,
+          "height": 886
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.6.8",
+          "buildVersion": "0.6.8",
+          "date": "2026-10-21T02:07:03+00:00",
+          "localizedDescription": "- Killer 2s is an AltStore source: add `https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/source.json` in AltStore → Sources and every new beta arrives as an update.\n- The iPhone app now says plainly that it never uses the camera, microphone or photos.\n- The pause menu re-centres itself if the phone rotates while it's open.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.8.ipa",
+          "size": 22173255,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Killer 2s never uses the camera.",
+          "NSMicrophoneUsageDescription": "Killer 2s never uses the microphone.",
+          "NSPhotoLibraryUsageDescription": "Killer 2s never reads your photos."
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Killer 2s 0.6.8",
+      "identifier": "killer2s-0.6.8",
+      "caption": "Killer 2s is an AltStore source: add `https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/source.json` in AltStore → Sources an",
+      "date": "2026-10-21T02:07:03+00:00",
+      "tintColor": "#C9A44C",
+      "notify": false,
+      "appID": "com.deviousdevelopments.killer2s"
+    }
+  ]
+}

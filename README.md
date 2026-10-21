@@ -5,7 +5,13 @@
 A shedding card game (Tiến Lên / "Thirteen" / "Killer" — with our own ladder, kills and bombs) and a roguelike run
 on top. Beta by **Devious Developments**.
 
-## Install on iPhone
+## Install with AltStore (updates itself)
+
+1. In **AltStore** → **Sources** → **+**, add this source:
+   `https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/source.json`
+2. Open **Devious Developments** → **Killer 2s** → **Free / Get**. New betas show up as updates in AltStore.
+
+## Install by hand (Sideloadly)
 
 1. Download the newest `Killer2s-<version>.ipa` from **[Releases → Latest](../../releases/latest)**.
 2. Install it with **[Sideloadly](https://sideloadly.io)** (Windows / macOS) or **AltStore**, signing with your own Apple ID.
@@ -17,6 +23,12 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 ## Changelog
 
 Newest first. 
+
+### 0.6.8 — 2026-10-20
+- **Killer 2s is an AltStore source**: add `https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/source.json`
+  in AltStore → Sources and every new beta arrives as an update.
+- The iPhone app now says plainly that it never uses the camera, microphone or photos.
+- The pause menu re-centres itself if the phone rotates while it's open.
 
 ### 0.6.7 — 2026-10-20
 - Fixed: opening the iPhone app switcher froze the game and hid the pause button. Now the pause menu opens when you come
