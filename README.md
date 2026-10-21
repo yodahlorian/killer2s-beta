@@ -22,12 +22,15 @@ on top. Beta by **Devious Developments**.
 
 Add the same source in **[SideStore](https://sidestore.io)** → Sources → +. It works exactly like AltStore.
 
-## Or install the file yourself
+## Or Sideloadly (Windows / macOS)
 
-1. Download the newest `Killer2s-<version>.ipa` from **[Releases → Latest](../../releases/latest)**.
-2. Install it with any sideloading tool, signing with your own Apple ID.
-3. On the phone: **Settings → General → VPN & Device Management** → trust your Apple ID's developer profile.
-4. Play in landscape.
+1. Install **[Sideloadly](https://sideloadly.io)** on your computer (Windows also needs iTunes from apple.com, not the Microsoft Store).
+2. Download the newest `Killer2s-<version>.ipa` from **[Releases → Latest](../../releases/latest)**.
+3. Plug your iPhone in with a cable, unlock it and tap **Trust** if it asks.
+4. Open Sideloadly, drag the `.ipa` onto it, enter your Apple ID and press **Start**.
+5. On the phone: **Settings → General → VPN & Device Management** → tap your Apple ID → **Trust**.
+6. iOS 16 and newer: **Settings → Privacy & Security → Developer Mode** → on (the phone restarts).
+7. Open Killer 2s and play in landscape. To update, repeat steps 2–4 with the new `.ipa`.
 
 A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta replaces the file (one release, one file).
 
