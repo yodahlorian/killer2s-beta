@@ -18,6 +18,12 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.7 — 2026-10-20
+- Fixed: opening the iPhone app switcher froze the game and hid the pause button. Now the pause menu opens when you come
+  back, and a paused game with no menu showing unpauses itself.
+- **Peek works straight away**: use it at the table and the next opponent's whole hand turns face up for the rest of that
+  table (it used to wait for the next table).
+
 ### 0.6.6 — 2026-10-20
 - **Clear stacking rules**: every enhancement trick now says what it is and what it stacks with: a MATERIAL (Gold,
   Stone), a FINISH (Holo, Chrome, Foil) or a MARK. A card holds one of each.
