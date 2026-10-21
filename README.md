@@ -29,6 +29,13 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.6.11 — 2026-10-21
+- **Pick your difficulty**: choose how long a run is on the deck screen. Easy is 3 circuits of 2 tables + boss (9 tables),
+  Normal 5 × (3 + boss) = 20, Hard 8 × (4 + boss) = 40, Extreme 12 × (6 + boss) = 84. Every run starts in the Cafeteria and
+  ends at The Table of Death, then carries on into Endless.
+- The circuit map draws every circuit of your run (Extreme snakes over two columns), with one circle per table and the boss in red.
+- Achievements reworded to fit any length: Halfway There = half a run; No End in Sight = 10 tables of Endless.
+
 ### 0.6.10 — 2026-10-21
 - **Decks unlock now**: the unlock checks never actually ran. Now they're checked after every table, so a deck unlocks the
   moment you earn it ("New deck unlocked!" on the table report). Crew and money count at their peak in the run, so holding
