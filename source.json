@@ -40,10 +40,145 @@
         {
           "version": "0.6.8",
           "buildVersion": "0.6.8",
-          "date": "2026-10-21T02:31:20+00:00",
+          "date": "2026-10-21T02:56:26+00:00",
           "localizedDescription": "- The iPhone app now says plainly that it never uses the camera, microphone or photos.\n- The pause menu re-centres itself if the phone rotates while it's open.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.8.ipa",
           "size": 22173255,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.7",
+          "buildVersion": "0.6.7",
+          "date": "2026-10-20",
+          "localizedDescription": "- Fixed: opening the iPhone app switcher froze the game and hid the pause button. Now the pause menu opens when you come back, and a paused game with no menu showing unpauses itself.\n- Peek works straight away: use it at the table and the next opponent's whole hand turns face up for the rest of that table (it used to wait for the next table).",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.7.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.6",
+          "buildVersion": "0.6.6",
+          "date": "2026-10-20",
+          "localizedDescription": "- Clear stacking rules: every enhancement trick now says what it is and what it stacks with: a MATERIAL (Gold, Stone), a FINISH (Holo, Chrome, Foil) or a MARK. A card holds one of each.\n- Replace warning: using a bonus that would push one off (Holo on a Chrome card) asks first, \"Replace with Holo\" or \"Keep it\". The same bonus twice is refused, so you don't waste the trick.\n- After a bonus stacks, the table tells you what the card is now (\"now Stone + Holo + Marked\").",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.6.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.5",
+          "buildVersion": "0.6.5",
+          "date": "2026-10-20",
+          "localizedDescription": "- Enhanced cards shine: every enhancement now has a live, moving finish, with the rank and pips inked on top. Holo is a rainbow film that shifts as you move (Balatro-style), Chrome has mirror bands that sweep across, Foil ripples blue-silver, Gold has a rolling sheen and twinkling glints, and Stone catches the light. On iPhone, tilt the phone and the light moves; on PC, it follows the mouse. Works on every deck.\n- Your own sort: Sort now cycles by rank, by suit, and by plays: your hand chained into the fewest plays with the fewest cards left over, laid out singles, pairs, trips, runs, then your 2s.\n- Bonuses stack, one of each kind: a card can have a material (Gold or Stone), a finish (Holo, Chrome or Foil) and a Mark, all at once, and each one pays. A new bonus of a kind the card already has replaces the old one.\n- Purchase confirmation in the Locker: the first tap on a card for sale selects it and shows what it does; tap it again to buy. Tapping anywhere else cancels.\n- The Snitch works: each opponent's highest card shows face-up on their seat, and updates as they play.\n- Pause menu: the pause button in the table's top-left corner (or Esc / Start on a controller) stops the table: the CPUs wait, nothing moves. From it: Resume, Sound (volume and mute, remembered), How to play, and Quit run (it asks first) or Main menu at a quick table. On iPhone, leaving the app pauses the table too.\n- Peek works: the next opponent's whole hand shows face-up for that table.\n- Fixed: after a run, the main menu's deck cards kept that run's enhancements (stone Aces on the deck picker).",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.5.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.4",
+          "buildVersion": "0.6.4",
+          "date": "2026-10-20",
+          "localizedDescription": "- Full Set, tightened: the four have to be played together, one straight after another. If any other play lands in between (say a 5, then a 7, then a pair of 5s), the last 5 is just a 5.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.4.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.3",
+          "buildVersion": "0.6.3",
+          "date": "2026-10-20",
+          "localizedDescription": "- FULL SET, a new kind of kill: when all four of a card end up on the stack, whoever lays the last of them wins it on the spot, whatever the suits. Got the other two 3s when someone plays a pair of 3s? Drop them: the stack clears, the pile is yours and you lead. A pair onto a single works too. In a run it scores like a KILL.\n- Faces at the table: every opponent (and every boss) has a hand-drawn polaroid of their own, taped to their seat, in place of the numbered circle.\n- Shop info icons: tap the little ⓘ on any card in the Locker to read what it does, with no more buying by accident.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.3.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.2",
+          "buildVersion": "0.6.2",
+          "date": "2026-10-20",
+          "localizedDescription": "- New app icon: all four 2s fanned out in your hand, ♠ ♣ ♦ ♥, so every suit shows. On PC (exe, window, browser tab) the background is invisible, just the cards; on iPhone they sit on the studio dark (iOS doesn't allow see-through icons).\n- First release to carry the 0.6.1 changes below (0.6.1 itself never went out).",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.2.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.1",
+          "buildVersion": "0.6.1",
+          "date": "2026-10-19",
+          "localizedDescription": "- No more Godot logo anywhere: the iPhone launch screen, the browser loading page and the PC boot all open on the studio dark, straight into our splash.\n- The PC exe carries the Killer 2s icon and \"Killer 2s · Devious Developments\" in its file details.\n- The title screen shows the new tagline: Shed your hand. Save your 2s. Take the pile.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.1.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.6.0",
+          "buildVersion": "0.6.0",
+          "date": "2026-10-19",
+          "localizedDescription": "- New name: Killer 2s (was \"Kill: TCG\"). Tagline: Shed your hand. Save your 2s. Take the pile.\n- Studio splash: the Devious Developments logo, then the title written on notebook paper. No more Godot stand-ins on boot.\n- App icon: the 2♥ on green felt (window, browser tab, iPhone).\n- iPhone build (this page) — sideload with Sideloadly or AltStore.\n- It's all Kills and Bombs: \"chop\" is gone; a bomb on 2s is a BOMB.\n- The top AI level is now Kingpin.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.6.0.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.5",
+          "buildVersion": "0.5.5",
+          "date": "2026-10-19",
+          "localizedDescription": "- Landscape on phones: a phone held upright shows \"turn your phone sideways\"; Android locks landscape in fullscreen.\n- The Table Card (right-hand panel) fills the whole column.\n- Tap/click the Table Report to finish the handwriting instantly.\n- Enhanced cards stand out: a thick rim in the material's colour + a sticker badge.\n- The Locker's focus ring hugs the button (it was enormous).\n- Table numbers read per circuit — \"1 / 3\", \"2 / 3\", \"BOSS\" (they showed 4/3, 6/3).\n- Table Report: \"RESULT\" stamp box; \"Paid out … (the House)\".",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.5.5.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.4",
+          "buildVersion": "0.5.4",
+          "date": "2026-10-19",
+          "localizedDescription": "- Table Card: the run's side panel is a photocopied form — score, this play (points × cards), crew and tricks taped in.\n- Collection: found items taped in; tricks, bosses, decks and enhancements on single lines.\n- Enhancement textures: Holographic shimmers, Stone is granite, Chrome, Foil, Gold leaf, Marked — on cards and tiles.\n- Bombs play on any stack, like kills; only a bigger bomb beats a bomb.\n- Fixed: a card that could stand in a run was greyed out (any suit works in a run).\n- Circuit map path no longer runs behind the names. How to Play rewritten (two pages).\n- Renamed the opponent \"Tardy Tom\" → \"Snooze Button Sid\".",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.5.4.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.3",
+          "buildVersion": "0.5.3",
+          "date": "2026-10-19",
+          "localizedDescription": "- Table Report and The Locker are photocopied forms: blanks filled in by pen, the maths written out, items taped in.\n- Drag cards onto the pile to play (green = legal, red snaps back).\n- Locker hover text fixed; the title menu fits on every screen.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.5.3.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.2",
+          "buildVersion": "0.5.2",
+          "date": "2026-10-19",
+          "localizedDescription": "- New hand order: single < pair < run of 3 < suited run of 3 < three of a kind < run of 4 < suited run of 4 < … < 2s.\n- The round ends the moment you go out — your sweep is one big total.\n- Crew (was \"Accomplices\"): 32 hand-drawn crew cards. Text sits on the notebook lines.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.5.2.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.1",
+          "buildVersion": "0.5.1",
+          "date": "2026-10-18",
+          "localizedDescription": "- Scoring = points × cards: every play, every pile you take, and the sweep of every card left when you go out first.\n- Runs start one-on-one, then 1 vs 2, then the full table.\n- Opponents have names; every venue has its own table cloth.\n- Bomb ladder: four of a kind < 3 pairs < 3 triples < 4 pairs < 4 triples < 5 pairs.\n- Mixed-suit straights fixed; drag to sort; shortcut letters in the buttons; plays stay on the pile until it clears.\n- Scaling crew multiply your score all run — the shop matters. Version shown on the title.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.5.1.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4",
+          "buildVersion": "0.4",
+          "date": "2026-10-18",
+          "localizedDescription": "- Rules adopted from Tiến Lên, with our own extended plays (a higher play beats any lower one) and 2s kill.\n- Web + phone layouts, controller support, eight deck arts, a calmer Notebook card back.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.4.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.3",
+          "buildVersion": "0.3",
+          "date": "2026-10-18",
+          "localizedDescription": "- The first builds: rules engine, six AI levels, the roguelike run (circuits, bosses, the Locker), deck arts.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.3.ipa",
+          "size": 0,
           "minOSVersion": "14.0"
         }
       ],
@@ -62,7 +197,7 @@
       "title": "Killer 2s 0.6.8",
       "identifier": "killer2s-0.6.8",
       "caption": "The iPhone app now says plainly that it never uses the camera, microphone or photos.",
-      "date": "2026-10-21T02:31:20+00:00",
+      "date": "2026-10-21T02:56:26+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"
