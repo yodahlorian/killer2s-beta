@@ -38,6 +38,36 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.7.0 — 2026-10-22 — THE EXPANSION
+- **Five kinds of card bonus**, one of each per card, so a card can carry up to five. **Stock** is the paper: Gold, Stone,
+  Carbon, Glow, Tracing Paper. **Finish** is the face: Chrome, Holo, Foil, Mirror, Pearlescent, Velvet. **Doodle** is drawn
+  in pen: Marked, Dollar Sign, Arrow, Crossed Out, Circle, Reveal. **Tape** is stuck on: Sticky, Masking, Electrical,
+  Packing, Painter's, Duct. **Stamp** comes from the office: Hall Pass, Detention, Gold Star, Principal's Office, Fire Drill.
+  Hold any card to read what its bonuses do. Bonuses that change how you play only ever work for YOU. An opponent holding
+  one gets nothing from it.
+- **Gold pays new amounts**: $3 in a pile you take, $5 when it's in an opponent's hand as you go out first, $1 when an
+  opponent takes it. **Marked** now counts twice in your piles and three times in your sweep.
+- **The Locker is a random shelf now**: crew, bonus cards, notes and cheat sheets, plus two **packs**. Rerolling redraws
+  the shelf; the packs stay. Four Locker forms take turns.
+- **Packs**: Lunchbox (anything), Sticker Pack (bonus cards), Trading Cards (crew) and Passed Notes (notes and cheat sheets).
+  Sizes are Standard, Jumbo, Double Sack (keep two), Mystery Bag (cheap, no choice) and the rare Ghost Pack. Grades run A–F:
+  Plain, Foil (keep one and use one on the spot), Holographic (keep two, use two), Chrome (uncommon or better), Gold (rare or
+  better) and Pearlescent (all of it).
+- **Notes** are one-shot cards: Copycat, Swap Meet, Snack Money, Coin Flip, Peek (see every hand until the stack clears),
+  Cram Session, Ghost Story, Fire Alarm and Doctor's Note (saves a failed table once per run), plus Suit Swap, Magic Marker
+  and Double Down.
+- **Cheat Sheets** level up a play type for the rest of the run: singles, pairs, runs, suited runs, three of a kind, Quads,
+  pairs in a row, triples in a row, each kind of 2s kill, Clean Sweeps, piles and the sweep.
+- **Ghost crew** take no crew slot. They're rarer and pricier, and they haunt: each ghost adds to every table total (1 ghost
+  +1%, 2 ghosts +3%, 3 ghosts +6% …).
+- **21 new crew**, among them Extra Locker, Big Backpack, Long Jumper, the legendary Fixer (every opponent play counts one
+  size smaller), payoffs for each bonus kind, and six that grow all run for Endless.
+- **Names**: the Full Set is now a **Clean Sweep**. It scores ×2 and pays $2, but it is not a kill: only 2s are kills.
+  Four of a kind is now a **Quad** (still a bomb).
+- **Hand order**: three of a kind now beats a run of 3 but not a SUITED run of 3. A suited run of 3 is rarer.
+- **Opening packs**: keep a card or use it on the spot. Mystery Bags come face down.
+- **A Discard button** at the table for Crossed Out and Principal's Office.
+
 ### 0.6.12 — 2026-10-21
 - **Winning the run is celebrated on the table you win it**: beat the final boss and the report says "YOU WON THE RUN!
   Endless continues…". It used to stay quiet, then say "you won the run" on the table you later LOST in Endless.
