@@ -38,6 +38,11 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.7.1 — 2026-10-22
+- **Info buttons in opened packs**: every card in a pack you open has the little (i). Tap it to read what the card is (crew,
+  bonus card and its kind, note or cheat sheet), how rare it is, and exactly what it does, before you Keep or Use it. In a
+  Mystery Bag the (i) appears once you turn a card over. Tap it again to close the note.
+
 ### 0.7.0 — 2026-10-22 — THE EXPANSION
 - **Five kinds of card bonus**, one of each per card, so a card can carry up to five. **Stock** is the paper: Gold, Stone,
   Carbon, Glow, Tracing Paper. **Finish** is the face: Chrome, Holo, Foil, Mirror, Pearlescent, Velvet. **Doodle** is drawn

@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.7.1",
+          "buildVersion": "0.7.1",
+          "date": "2026-10-22T16:50:35+00:00",
+          "localizedDescription": "- Info buttons in opened packs: every card in a pack you open has the little (i). Tap it to read what the card is (crew, bonus card and its kind, note or cheat sheet), how rare it is, and exactly what it does, before you Keep or Use it. In a Mystery Bag the (i) appears once you turn a card over. Tap it again to close the note.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.1.ipa",
+          "size": 22325938,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "0.7.0",
-          "date": "2026-10-22T04:29:16+00:00",
+          "date": "2026-10-22",
           "localizedDescription": "- Five kinds of card bonus, one of each per card, so a card can carry up to five. Stock is the paper: Gold, Stone, Carbon, Glow, Tracing Paper. Finish is the face: Chrome, Holo, Foil, Mirror, Pearlescent, Velvet. Doodle is drawn in pen: Marked, Dollar Sign, Arrow, Crossed Out, Circle, Reveal. Tape is stuck on: Sticky, Masking, Electrical, Packing, Painter's, Duct. Stamp comes from the office: Hall Pass, Detention, Gold Star, Principal's Office, Fire Drill. Hold any card to read what its bonuses do. Bonuses that change how you play only ever work for YOU. An opponent holding one gets nothing from it.\n- Gold pays new amounts: $3 in a pile you take, $5 when it's in an opponent's hand as you go out first, $1 when an opponent takes it. Marked now counts twice in your piles and three times in your sweep.\n- The Locker is a random shelf now: crew, bonus cards, notes and cheat sheets, plus two packs. Rerolling redraws the shelf; the packs stay. Four Locker forms take turns.\n- Packs: Lunchbox (anything), Sticker Pack (bonus cards), Trading Cards (crew) and Passed Notes (notes and cheat sheets). Sizes are Standard, Jumbo, Double Sack (keep two), Mystery Bag (cheap, no choice) and the rare Ghost Pack. Grades run A–F: Plain, Foil (keep one and use one on the spot), Holographic (keep two, use two), Chrome (uncommon or better), Gold (rare or better) and Pearlescent (all of it).\n- Notes are one-shot cards: Copycat, Swap Meet, Snack Money, Coin Flip, Peek (see every hand until the stack clears), Cram Session, Ghost Story, Fire Alarm and Doctor's Note (saves a failed table once per run), plus Suit Swap, Magic Marker and Double Down.\n- Cheat Sheets level up a play type for the rest of the run: singles, pairs, runs, suited runs, three of a kind, Quads, pairs in a row, triples in a row, each kind of 2s kill, Clean Sweeps, piles and the sweep.\n- Ghost crew take no crew slot. They're rarer and pricier, and they haunt: each ghost adds to every table total (1 ghost +1%, 2 ghosts +3%, 3 ghosts +6% …).\n- 21 new crew, among them Extra Locker, Big Backpack, Long Jumper, the legendary Fixer (every opponent play counts one size smaller), payoffs for each bonus kind, and six that grow all run for Endless.\n- Names: the Full Set is now a Clean Sweep. It scores ×2 and pays $2, but it is not a kill: only 2s are kills. Four of a kind is now a Quad (still a bomb).\n- Hand order: three of a kind now beats a run of 3 but not a SUITED run of 3. A suited run of 3 is rarer.\n- Opening packs: keep a card or use it on the spot. Mystery Bags come face down.\n- A Discard button at the table for Crossed Out and Principal's Office.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.0.ipa",
-          "size": 22323429,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -239,10 +248,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.7.0",
-      "identifier": "killer2s-0.7.0",
-      "caption": "Five kinds of card bonus, one of each per card, so a card can carry up to five. Stock is the paper: Gold, Stone, Carbon, Glow, Tracing Paper",
-      "date": "2026-10-22T04:29:16+00:00",
+      "title": "Killer 2s 0.7.1",
+      "identifier": "killer2s-0.7.1",
+      "caption": "Info buttons in opened packs: every card in a pack you open has the little (i). Tap it to read what the card is (crew, bonus card and its ki",
+      "date": "2026-10-22T16:50:35+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"
