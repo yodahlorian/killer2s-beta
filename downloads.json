@@ -45,6 +45,11 @@
    "asset": "Killer2s-0.7.3.ipa",
    "downloads": 1,
    "retired": "2026-10-22 22:56:49"
+  },
+  {
+   "asset": "Killer2s-0.7.4.ipa",
+   "downloads": 0,
+   "retired": "2026-10-22 23:50:42"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct); counting starts at 0.6.8"

@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.7.5",
+          "buildVersion": "0.7.5",
+          "date": "2026-10-23T03:50:43+00:00",
+          "localizedDescription": "- No silent replacing: using a bonus card (in the Locker, or on the spot from a pack) or Copycat that would push a bonus of the same kind off a card now asks first, \"Replace with …\" or Back. Back changes nothing.\n- Run sheet › Your deck: the whole deck as cards, each with its bonus chips. Tap a card to read every bonus on it and what each one does.\n- Speed: 1×, 2×, 4× or Instant, in the pause menu and on the title screen (remembered). 2× and 4× run the whole table faster: the CPUs' turns, card flights, the score count-up and the pen writing on every sheet. Instant skips the show: CPU moves land at once, each play shows its final score, and the table report and the Locker appear already filled in. The scoring itself is exactly the same at every speed.\n- One version for every platform: PC, web and iPhone all carry the same number from now on.",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.5.ipa",
+          "size": 22347134,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.7.4",
           "buildVersion": "0.7.4",
-          "date": "2026-10-23T02:56:50+00:00",
+          "date": "2026-10-22",
           "localizedDescription": "- The phone turns the game round: landscape either way up (it was locked to one side).",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.4.ipa",
-          "size": 22339834,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -275,10 +284,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.7.4",
-      "identifier": "killer2s-0.7.4",
-      "caption": "The phone turns the game round: landscape either way up (it was locked to one side).",
-      "date": "2026-10-23T02:56:50+00:00",
+      "title": "Killer 2s 0.7.5",
+      "identifier": "killer2s-0.7.5",
+      "caption": "No silent replacing: using a bonus card (in the Locker, or on the spot from a pack) or Copycat that would push a bonus of the same kind off ",
+      "date": "2026-10-23T03:50:43+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"

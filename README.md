@@ -38,7 +38,18 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
-### 0.7.4 — 2026-10-22 (iPhone)
+### 0.7.5 — 2026-10-22
+- **No silent replacing**: using a bonus card (in the Locker, or on the spot from a pack) or Copycat that would push a bonus
+  of the same kind off a card now asks first, "Replace with …" or Back. Back changes nothing.
+- **Run sheet › Your deck**: the whole deck as cards, each with its bonus chips. Tap a card to read every bonus on it and
+  what each one does.
+- **Speed**: 1×, 2×, 4× or Instant, in the pause menu and on the title screen (remembered). 2× and 4× run the whole table
+  faster: the CPUs' turns, card flights, the score count-up and the pen writing on every sheet. **Instant** skips the show:
+  CPU moves land at once, each play shows its final score, and the table report and the Locker appear already filled in.
+  The scoring itself is exactly the same at every speed.
+- One version for every platform: PC, web and iPhone all carry the same number from now on.
+
+### 0.7.4 — 2026-10-22
 - The phone turns the game round: landscape either way up (it was locked to one side).
 
 ### 0.7.3 — 2026-10-22
