@@ -7,7 +7,8 @@
   "website": "https://github.com/yodahlorian/killer2s-beta",
   "tintColor": "#C9A44C",
   "featuredApps": [
-    "com.deviousdevelopments.killer2s"
+    "com.deviousdevelopments.killer2s",
+    "com.deviousdevelopments.arcadeous"
   ],
   "apps": [
     {
@@ -280,6 +281,36 @@
           "NSPhotoLibraryUsageDescription": "Killer 2s never reads your photos."
         }
       }
+    },
+    {
+      "name": "Arcadeous",
+      "bundleIdentifier": "com.deviousdevelopments.arcadeous",
+      "developerName": "Devious Developments",
+      "subtitle": "Run your own arcade.",
+      "localizedDescription": "Build an arcade from an empty floor: buy cabinets, set prices, keep the lights on, and play every machine yourself. iPhone beta: touch controls on screen, the same save system as the PC game.",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/killer2s-beta/main/altstore/arcadeous/icon.png",
+      "tintColor": "#38C8FF",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.11.26",
+          "buildVersion": "0.11.26",
+          "date": "2026-10-23T13:45:23+00:00",
+          "localizedDescription": "Arcadeous 0.11.26 for iPhone.",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.ipa",
+          "size": 39745461,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Arcadeous never uses the camera.",
+          "NSMicrophoneUsageDescription": "Arcadeous never uses the microphone.",
+          "NSPhotoLibraryUsageDescription": "Arcadeous never reads your photos."
+        }
+      }
     }
   ],
   "news": [
@@ -291,6 +322,15 @@
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"
+    },
+    {
+      "title": "Arcadeous 0.11.26",
+      "identifier": "arcadeous-0.11.26",
+      "caption": "Arcadeous is on iPhone.",
+      "date": "2026-10-23T13:45:23+00:00",
+      "tintColor": "#38C8FF",
+      "notify": false,
+      "appID": "com.deviousdevelopments.arcadeous"
     }
   ]
 }
