@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.7.2",
+          "buildVersion": "0.7.2",
+          "date": "2026-10-23T00:00:20+00:00",
+          "localizedDescription": "- The table report shows your WHOLE crew: Ghosts included, and more than five squeeze in along the row (it only ever showed the first five).",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.2.ipa",
+          "size": 22326787,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.7.1",
           "buildVersion": "0.7.1",
-          "date": "2026-10-22T16:50:35+00:00",
+          "date": "2026-10-22",
           "localizedDescription": "- Info buttons in opened packs: every card in a pack you open has the little (i). Tap it to read what the card is (crew, bonus card and its kind, note or cheat sheet), how rare it is, and exactly what it does, before you Keep or Use it. In a Mystery Bag the (i) appears once you turn a card over. Tap it again to close the note.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.1.ipa",
-          "size": 22325938,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -248,10 +257,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.7.1",
-      "identifier": "killer2s-0.7.1",
-      "caption": "Info buttons in opened packs: every card in a pack you open has the little (i). Tap it to read what the card is (crew, bonus card and its ki",
-      "date": "2026-10-22T16:50:35+00:00",
+      "title": "Killer 2s 0.7.2",
+      "identifier": "killer2s-0.7.2",
+      "caption": "The table report shows your WHOLE crew: Ghosts included, and more than five squeeze in along the row (it only ever showed the first five).",
+      "date": "2026-10-23T00:00:20+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"

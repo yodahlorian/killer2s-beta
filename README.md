@@ -38,6 +38,10 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.7.2 — 2026-10-22
+- The table report shows your WHOLE crew: Ghosts included, and more than five squeeze in along the row (it only ever showed
+  the first five).
+
 ### 0.7.1 — 2026-10-22
 - **Info buttons in opened packs**: every card in a pack you open has the little (i). Tap it to read what the card is (crew,
   bonus card and its kind, note or cheat sheet), how rare it is, and exactly what it does, before you Keep or Use it. In a
