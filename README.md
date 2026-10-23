@@ -38,6 +38,9 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.7.4 — 2026-10-22 (iPhone)
+- The phone turns the game round: landscape either way up (it was locked to one side).
+
 ### 0.7.3 — 2026-10-22
 - **Run sheet**: everything about your run on one photocopied sheet, in tabs: Plays (every play type's Cheat Sheet level,
   what it adds now and what the next sheet adds), Crew, Money, Bonuses in your deck, This table, Run stats, Deck & stake.

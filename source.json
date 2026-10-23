@@ -38,12 +38,21 @@
       ],
       "versions": [
         {
+          "version": "0.7.4",
+          "buildVersion": "0.7.4",
+          "date": "2026-10-23T02:56:50+00:00",
+          "localizedDescription": "- The phone turns the game round: landscape either way up (it was locked to one side).",
+          "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.4.ipa",
+          "size": 22339834,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "0.7.3",
           "buildVersion": "0.7.3",
-          "date": "2026-10-23T01:16:51+00:00",
+          "date": "2026-10-22",
           "localizedDescription": "- Run sheet: everything about your run on one photocopied sheet, in tabs: Plays (every play type's Cheat Sheet level, what it adds now and what the next sheet adds), Crew, Money, Bonuses in your deck, This table, Run stats, Deck & stake. Open it from the round button beside pause at a table (the table waits while it's open; your turn isn't used), or the Run sheet button in the Locker and on the map. A Cheat Sheet's note points you to it.",
           "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.3.ipa",
-          "size": 22339673,
+          "size": 0,
           "minOSVersion": "14.0"
         },
         {
@@ -266,10 +275,10 @@
   ],
   "news": [
     {
-      "title": "Killer 2s 0.7.3",
-      "identifier": "killer2s-0.7.3",
-      "caption": "Run sheet: everything about your run on one photocopied sheet, in tabs: Plays (every play type's Cheat Sheet level, what it adds now and wha",
-      "date": "2026-10-23T01:16:51+00:00",
+      "title": "Killer 2s 0.7.4",
+      "identifier": "killer2s-0.7.4",
+      "caption": "The phone turns the game round: landscape either way up (it was locked to one side).",
+      "date": "2026-10-23T02:56:50+00:00",
       "tintColor": "#C9A44C",
       "notify": false,
       "appID": "com.deviousdevelopments.killer2s"
