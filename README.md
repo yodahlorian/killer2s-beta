@@ -38,6 +38,12 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.7.3 — 2026-10-22
+- **Run sheet**: everything about your run on one photocopied sheet, in tabs: Plays (every play type's Cheat Sheet level,
+  what it adds now and what the next sheet adds), Crew, Money, Bonuses in your deck, This table, Run stats, Deck & stake.
+  Open it from the round button beside pause at a table (the table waits while it's open; your turn isn't used), or the
+  Run sheet button in the Locker and on the map. A Cheat Sheet's note points you to it.
+
 ### 0.7.2 — 2026-10-22
 - The table report shows your WHOLE crew: Ghosts included, and more than five squeeze in along the row (it only ever showed
   the first five).
