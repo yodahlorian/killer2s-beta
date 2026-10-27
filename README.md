@@ -38,6 +38,16 @@ A free Apple ID signs apps for 7 days; re-sideload to refresh. Each new beta rep
 
 Newest first. 
 
+### 0.7.6 — 2026-10-27
+- **iPhone: tap to read at the table.** Tap a crew member on the table card to read what it does (it only showed when a
+  mouse hovered it). Tap a Trick and its note comes up first; tap it again to use it. One tap no longer spends a Trick
+  you haven't read.
+- **Selling asks first**: tap "sell $" and the crew member's note opens with "Tap sell again to sell". Tap it again to
+  sell; tap anywhere else and they stay.
+- **iPhone: the Collection** shows what an item is when you tap it (it was hover-only, so on the phone it said nothing).
+- iPhone: the Play / Pass / Hint / Clear / Sort buttons no longer underline a keyboard shortcut letter, and the table says
+  "tap", not "click".
+
 ### 0.7.5 — 2026-10-22
 - **No silent replacing**: using a bonus card (in the Locker, or on the spot from a pack) or Copycat that would push a bonus
   of the same kind off a card now asks first, "Replace with …" or Back. Back changes nothing.
